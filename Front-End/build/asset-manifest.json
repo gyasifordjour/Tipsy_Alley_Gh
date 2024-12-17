@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.186f375f.css",
+    "main.js": "/static/js/main.4b21fe28.js",
+    "static/media/cock-01.png": "/static/media/cock-01.31f8025b2b8d3ce5f933.png",
+    "static/media/bobo3.png": "/static/media/bobo3.73ab066cccd4ca39293c.png",
+    "static/media/bobo4.png": "/static/media/bobo4.24ecc9475e2b330a496c.png",
+    "static/media/2-01.png": "/static/media/2-01.ca98b26a0f27becdabe0.png",
+    "static/media/bobo2.png": "/static/media/bobo2.5dcaddd4d8cc8e6413f6.png",
+    "static/media/products.png": "/static/media/products.822842eb7459ccde109c.png",
+    "static/media/oborb.png": "/static/media/oborb.9d52eb3e90cb9ded1e73.png",
+    "static/media/boba7.png": "/static/media/boba7.49eeb599fa053f86f45b.png",
+    "static/media/bobo1.png": "/static/media/bobo1.c4202a3621f75d8573a2.png",
+    "static/media/Logo.png": "/static/media/Logo.0228c80572ff1bf76910.png",
+    "static/media/3.png": "/static/media/3.1ae667f864b66c62e387.png",
+    "static/media/bobablue.png": "/static/media/bobablue.9ea6c98027abc89e83d1.png",
+    "static/media/contactt-01.png": "/static/media/contactt-01.cc75f984675fd317a5c8.png",
+    "static/media/mocktail alcohol.png": "/static/media/mocktail alcohol.d522b8a7cfe7803802bf.png",
+    "static/media/mocknon.png": "/static/media/mocknon.0ae068bded63659c05df.png",
+    "static/media/bob5.png": "/static/media/bob5.f5c7240e0c54425f54a1.png",
+    "static/media/cocktail alcohol.png": "/static/media/cocktail alcohol.d41e56442fceff107ce6.png",
+    "static/media/bob6.png": "/static/media/bob6.ed259c1546e4d0874045.png",
+    "static/media/strawberry.png": "/static/media/strawberry.9eb23c6bc6e62ad79a5e.png",
+    "static/media/boba.png": "/static/media/boba.f12242048ea2d8e26a1f.png",
+    "static/media/bobatea.png": "/static/media/bobatea.f12242048ea2d8e26a1f.png",
+    "static/media/bo4.png": "/static/media/bo4.72e2054a7dc8a2f8fdf2.png",
+    "static/media/bob1.png": "/static/media/bob1.b6928af7aac03dc9ea4b.png",
+    "static/media/Nonalcohol.png": "/static/media/Nonalcohol.caa88574036274e327c5.png",
+    "static/media/bob.png": "/static/media/bob.5860142501efa258efe3.png",
+    "static/media/profile.jpeg": "/static/media/profile.d43aa4e90121eb227e86.jpeg",
+    "index.html": "/index.html",
+    "main.186f375f.css.map": "/static/css/main.186f375f.css.map",
+    "main.4b21fe28.js.map": "/static/js/main.4b21fe28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.186f375f.css",
+    "static/js/main.4b21fe28.js"
+  ]
+}
